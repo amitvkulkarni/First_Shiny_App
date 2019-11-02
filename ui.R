@@ -24,7 +24,7 @@ ui <- fluidPage(
     # Main panel for displaying outputs ----
     mainPanel(
       
-      # Output: Histogram ----
+      # Output: Histogram, this changes based on the selection of slicer value ----
       plotOutput(outputId = "distPlot")
       
     )
