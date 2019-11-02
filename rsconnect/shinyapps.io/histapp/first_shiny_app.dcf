@@ -1,0 +1,10 @@
+name: first_shiny_app
+title:
+username:
+account: histapp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 846051
+bundleId: 1994103
+url: https://histapp.shinyapps.io/first_shiny_app/
+when: 1554705461.46265
